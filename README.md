@@ -4,7 +4,7 @@ This repository contains my work on **Computational Optimal Recovery**: the rese
 In reverse chronological order (of submission, not publication), these articles are:
 
 - Optimal recovery from inaccurate data in Hilbert spaces: regularize, but what of the parameter? With C. Liao. | 
-[PDF](https://github.com/foucart/COR/Papers/07_ORHilbert_Reg.pdf) 
+[PDF](Papers/07_ORHilbert_Reg.pdf) 
 / 
 [MATLAB](https://htmlpreview.github.io/?https://github.com/foucart/COR/MATLAB/web/07_ORHilbert_Reg_repro.html)
 
