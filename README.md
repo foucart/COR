@@ -7,8 +7,10 @@ In reverse chronological order (of submission, not publication), these articles 
 [PDF](Papers/ORHilbert_Reg.pdf) 
 / 
 [MATLAB](https://htmlpreview.github.io/?https://github.com/foucart/COR/blob/master/MATLAB/web/ORHilbert_Reg_repro.html)
+/
+[Python](https://htmlpreview.github.io/?https://github.com/foucart/COR/blob/master/Python/web/ORHilbert_Reg_repro.html)
 
-For a more direct access to html versions of the reproducibles (when available), simply click on the links above.
+For a direct access to html versions of the reproducibles (when available), simply click on the links above.
 The raw codes, available in MATLAB and in Python, are located inside the folders called "MATLAB" and "Python". 
 To execute these reproducibles, additional software is sometimes required, in particular:
 - in MATLAB, Chebfun (https://www.chebfun.org/) may be necessary;
