@@ -14,18 +14,20 @@ With C. Liao. |
 With C. Liao, S. Shahrampour, Y. Wang. | 
 [PDF](Papers/OR_Learning.pdf)
 - Instances of computational optimal recovery: dealing with observation errors.
-With M. Ettehad. | 
+With M. Ettehad. SIAM/ASA Journal on Uncertainty Quantification, 9/4, 1438--1456, 2021.  | 
 [PDF](Papers/ICOR_ObsErrors.pdf)
-- Instances of computational optimal recovery: refined approximability models. |
+- Instances of computational optimal recovery: refined approximability models. 
+Journal of Complexity, 62, 101503, 2021. |
 [PDF](Papers/ICOR_Overparametrization.pdf)
 - Approximability models and optimal system identification.
-With M. Ettehad. | 
+With M. Ettehad. Mathematics of Control, Signals, and Systems, 32/1, 19--41, 2020. | 
 [PDF](Papers/ORinSI.pdf)
 - Optimal algorithms for computing average temperatures.
-With M. Hielsberg, G. Mullendore, G. Petrova, P. Wojtaszczyk. | 
+With M. Hielsberg, G. Mullendore, G. Petrova, P. Wojtaszczyk. 
+Mathematics of Climate and Weather Forecasting, 5, 34--44, 2019.  | 
 [PDF](Papers/OptAlgo_AveTemp.pdf)
 - Computing a quantity of interest from observational data
-With R. DeVore, G. Petrova, and P. Wojtaszczyk. |
+With R. DeVore, G. Petrova, and P. Wojtaszczyk. Constructive Approximation, 49/3, 461--508, 2019. |
 [PDF](Papers/Computing_QoI.pdf)
 
 For a direct access to html versions of the reproducibles (when available), simply click on the links above.
