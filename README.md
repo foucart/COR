@@ -36,6 +36,8 @@ With M. Ettehad. Mathematics of Control, Signals, and Systems, 32/1, 19--41, 202
 With M. Hielsberg, G. Mullendore, G. Petrova, P. Wojtaszczyk. 
 Mathematics of Climate and Weather Forecasting, 5, 34--44, 2019.  | 
 [PDF](Papers/OptAlgo_AveTemp.pdf)
+/
+[MATLAB](MATLAB/Redistributable_final.zip)
 - Computing a quantity of interest from observational data.
 With R. DeVore, G. Petrova, P. Wojtaszczyk. Constructive Approximation, 49/3, 461--508, 2019. |
 [PDF](Papers/Computing_QoI.pdf)
