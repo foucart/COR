@@ -3,15 +3,17 @@
 This repository contains my work on **Computational Optimal Recovery**: the research articles and the accompanying reproducible files.
 In reverse chronological order (of submission, not publication), these articles are:
 
+- Full recovery from point values: an optimal algorithm for Chebyshev approximability prior.
+[PDF] (Papers/OR_FullApprox.pdf)
 - Optimal recovery from inaccurate data in Hilbert spaces: regularize, but what of the parameter? 
-With C. Liao. | 
+With C. Liao. Constructive Approximation, to appear. | 
 [PDF](Papers/ORHilbert_Reg.pdf) 
 / 
 [MATLAB](https://htmlpreview.github.io/?https://github.com/foucart/COR/blob/master/MATLAB/web/ORHilbert_Reg_repro.html)
 /
 [Python](https://htmlpreview.github.io/?https://github.com/foucart/COR/blob/master/Python/web/ORHilbert_Reg_repro.html)
 - Learning from non-random data in Hilbert spaces: an optimal recovery perspective.
-With C. Liao, S. Shahrampour, Y. Wang. | 
+With C. Liao, S. Shahrampour, Y. Wang. Sampling Theory, Signal Processing, and Data Analysis, 20, 5, 2022. | 
 [PDF](Papers/OR_Learning.pdf)
 - Instances of computational optimal recovery: dealing with observation errors.
 With M. Ettehad. SIAM/ASA Journal on Uncertainty Quantification, 9/4, 1438--1456, 2021.  | 
