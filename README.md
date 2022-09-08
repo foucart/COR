@@ -30,6 +30,8 @@ Journal of Complexity, 62, 101503, 2021. |
 - Approximability models and optimal system identification.
 With M. Ettehad. Mathematics of Control, Signals, and Systems, 32/1, 19--41, 2020. | 
 [PDF](Papers/ORinSI.pdf)
+/
+[MATLAB](Reproducible_OSI.zip)
 - Optimal algorithms for computing average temperatures.
 With M. Hielsberg, G. Mullendore, G. Petrova, P. Wojtaszczyk. 
 Mathematics of Climate and Weather Forecasting, 5, 34--44, 2019.  | 
