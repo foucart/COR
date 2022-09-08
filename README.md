@@ -41,6 +41,8 @@ Mathematics of Climate and Weather Forecasting, 5, 34--44, 2019.  |
 - Computing a quantity of interest from observational data.
 With R. DeVore, G. Petrova, P. Wojtaszczyk. Constructive Approximation, 49/3, 461--508, 2019. |
 [PDF](Papers/Computing_QoI.pdf)
+/
+[MATLAB](MATLAB/DFPW_Reproducible.zip)
 
 For a direct access to html versions of the reproducibles (when available), simply click on the links above.
 The raw codes, available in MATLAB and in Python, are located inside the folders called "MATLAB" and "Python". 
