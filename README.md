@@ -5,6 +5,8 @@ In reverse chronological order (of submission, not publication), these articles 
 
 - Full recovery from point values: an optimal algorithm for Chebyshev approximability prior. |
 [PDF](Papers/OR_FullApprox.pdf)
+/
+[MATLAB](...)
 - Optimal recovery from inaccurate data in Hilbert spaces: regularize, but what of the parameter? 
 With C. Liao. Constructive Approximation, to appear. | 
 [PDF](Papers/ORHilbert_Reg.pdf) 
