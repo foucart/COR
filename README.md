@@ -3,7 +3,7 @@
 This repository contains my work on **Computational Optimal Recovery**: the research articles and the accompanying reproducible files.
 In reverse chronological order (of submission, not publication), these articles are:
 
-- Full recovery from point values: an optimal algorithm for Chebyshev approximability prior.
+- Full recovery from point values: an optimal algorithm for Chebyshev approximability prior. |
 [PDF](Papers/OR_FullApprox.pdf)
 - Optimal recovery from inaccurate data in Hilbert spaces: regularize, but what of the parameter? 
 With C. Liao. Constructive Approximation, to appear. | 
