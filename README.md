@@ -3,6 +3,10 @@
 This repository contains my work on **Computational Optimal Recovery**: the research articles and the accompanying reproducible files.
 In reverse chronological order (of submission, not publication), these articles are:
 
+- On the optimal recovery of graph signals.
+With C. Liao and N. Veldt.
+- Near-optimal estimation of linear functionals with log-concave observation errors.
+With G. Paouris, 
 - Full recovery from point values: an optimal algorithm for Chebyshev approximability prior. |
 [PDF](Papers/OR_FullApprox.pdf)
 /
