@@ -6,7 +6,7 @@ In reverse chronological order (of submission, not publication), these articles 
 - On the optimal recovery of graph signals.
 With C. Liao and N. Veldt.
 - Near-optimal estimation of linear functionals with log-concave observation errors.
-With G. Paouris, 
+With G. Paouris. 
 - Full recovery from point values: an optimal algorithm for Chebyshev approximability prior. |
 [PDF](Papers/OR_FullApprox.pdf)
 /
