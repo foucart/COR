@@ -14,7 +14,7 @@ With G. Paouris. |
 /
 [MATLAB](MATLAB/OR_FullApprox_repro.zip)
 - Optimal recovery from inaccurate data in Hilbert spaces: regularize, but what of the parameter? 
-With C. Liao. Constructive Approximation, to appear. | 
+With C. Liao. Constructive Approximation, 57, 489--520, 2023. | 
 [PDF](Papers/ORHilbert_Reg.pdf) 
 / 
 [MATLAB](https://htmlpreview.github.io/?https://github.com/foucart/COR/blob/master/MATLAB/web/ORHilbert_Reg_repro.html)
