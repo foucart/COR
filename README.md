@@ -5,7 +5,7 @@ In reverse chronological order (of submission, not publication), these articles 
 
 - On the optimal recovery of graph signals.
 With C. Liao and N. Veldt.
-[PDF](Papers/OR_GraphSignals.pdf)
+[PDF](Papers/OR_Graph.pdf)
 - Near-optimal estimation of linear functionals with log-concave observation errors. |
 With G. Paouris. 
 [PDF](Papers/OR_LogConcave.pdf)
