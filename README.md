@@ -3,13 +3,19 @@
 This repository contains my work on **Computational Optimal Recovery**: the research articles and the accompanying reproducible files.
 In reverse chronological order (of submission, not publication), these articles are:
 
+- S-procedure relaxation: a case of exactness involving Chebyshev centers.
+With C. Liao. |
+[PDF](Papers/OR_SProc)
 - On the optimal recovery of graph signals.
-With C. Liao and N. Veldt. |
-[PDF](Papers/OR_Graph.pdf) / [MATLAB](https://github.com/liaochunyang/ORofGraphSignals)
+With C. Liao and N. Veldt. International Conference on Sampling Theory and Applications (SampTA), 2023. |
+[PDF](Papers/OR_Graph.pdf)
+/
+[MATLAB](https://github.com/liaochunyang/ORofGraphSignals)
 - Near-optimal estimation of linear functionals with log-concave observation errors.
-With G. Paouris. |
+With G. Paouris. Information and Inference, 12/4, iaad038, 2023. |
 [PDF](Papers/OR_LogConcave.pdf)
-- Full recovery from point values: an optimal algorithm for Chebyshev approximability prior. |
+- Full recovery from point values: an optimal algorithm for Chebyshev approximability prior.
+Advances in Computational Mathematics, 49, 57, 2023.|
 [PDF](Papers/OR_FullApprox.pdf)
 /
 [MATLAB](MATLAB/OR_FullApprox_repro.zip)
