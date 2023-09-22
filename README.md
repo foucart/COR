@@ -5,7 +5,7 @@ These articles appear in reverse chronological order (of submission, not publica
 They link to preprints which may differ from the final published versions.
 
 - S-procedure relaxation: a case of exactness involving Chebyshev centers. |
-[PDF](Papers/OR_SProc)
+[PDF](Papers/OR_SProc.pdf)
 <br> With C. Liao.
 - On the optimal recovery of graph signals. |
 [PDF](Papers/OR_Graph.pdf)
