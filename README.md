@@ -1,7 +1,8 @@
 # COR
 
 This repository contains my work on **Computational Optimal Recovery**: the research articles and the accompanying reproducible files.
-In reverse chronological order (of submission, not publication), these articles are:
+These articles appear in reverse chronological order (of submission, not publication) below. 
+They link to preprints which may differ from the final published versions.
 
 - S-procedure relaxation: a case of exactness involving Chebyshev centers. |
 [PDF](Papers/OR_SProc)
