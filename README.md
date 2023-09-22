@@ -3,58 +3,58 @@
 This repository contains my work on **Computational Optimal Recovery**: the research articles and the accompanying reproducible files.
 In reverse chronological order (of submission, not publication), these articles are:
 
-- S-procedure relaxation: a case of exactness involving Chebyshev centers.
-With C. Liao. |
+- S-procedure relaxation: a case of exactness involving Chebyshev centers. |
 [PDF](Papers/OR_SProc)
-- On the optimal recovery of graph signals.
-With C. Liao and N. Veldt. International Conference on Sampling Theory and Applications (SampTA), 2023. |
+<br> With C. Liao.
+- On the optimal recovery of graph signals. |
 [PDF](Papers/OR_Graph.pdf)
 /
 [MATLAB](https://github.com/liaochunyang/ORofGraphSignals)
-- Near-optimal estimation of linear functionals with log-concave observation errors.
-With G. Paouris. Information and Inference, 12/4, iaad038, 2023. |
+<br> With C. Liao and N. Veldt. International Conference on Sampling Theory and Applications (SampTA), 2023.
+- Near-optimal estimation of linear functionals with log-concave observation errors. |
 [PDF](Papers/OR_LogConcave.pdf)
-- Full recovery from point values: an optimal algorithm for Chebyshev approximability prior.
-Advances in Computational Mathematics, 49, 57, 2023.|
+<br> With G. Paouris. Information and Inference, 12/4, iaad038, 2023.
+- Full recovery from point values: an optimal algorithm for Chebyshev approximability prior. |
 [PDF](Papers/OR_FullApprox.pdf)
 /
 [MATLAB](MATLAB/OR_FullApprox_repro.zip)
-- Optimal recovery from inaccurate data in Hilbert spaces: regularize, but what of the parameter? 
-With C. Liao. Constructive Approximation, 57, 489--520, 2023. | 
+<br> Advances in Computational Mathematics, 49, 57, 2023.
+- Optimal recovery from inaccurate data in Hilbert spaces: regularize, but what of the parameter? | 
 [PDF](Papers/ORHilbert_Reg.pdf) 
 / 
 [MATLAB](https://htmlpreview.github.io/?https://github.com/foucart/COR/blob/master/MATLAB/web/ORHilbert_Reg_repro.html)
 /
 [Python](https://htmlpreview.github.io/?https://github.com/foucart/COR/blob/master/Python/web/ORHilbert_Reg_repro.html)
-- Learning from non-random data in Hilbert spaces: an optimal recovery perspective.
-With C. Liao, S. Shahrampour, Y. Wang. Sampling Theory, Signal Processing, and Data Analysis, 20, 5, 2022. | 
+<br> With C. Liao. Constructive Approximation, 57, 489--520, 2023.
+- Learning from non-random data in Hilbert spaces: an optimal recovery perspective. | 
 [PDF](Papers/OR_Learning.pdf)
-- Instances of computational optimal recovery: dealing with observation errors.
-With M. Ettehad. SIAM/ASA Journal on Uncertainty Quantification, 9/4, 1438--1456, 2021.  | 
+<br> With C. Liao, S. Shahrampour, Y. Wang. Sampling Theory, Signal Processing, and Data Analysis, 20, 5, 2022.
+- Instances of computational optimal recovery: dealing with observation errors.  | 
 [PDF](Papers/ICOR_ObsErrors.pdf)
 /
 [MATLAB](MATLAB/OR_Uncertainty_repro.m)
-- Instances of computational optimal recovery: refined approximability models. 
-Journal of Complexity, 62, 101503, 2021. |
+<br> With M. Ettehad. SIAM/ASA Journal on Uncertainty Quantification, 9/4, 1438--1456, 2021.
+- Instances of computational optimal recovery: refined approximability models. |
 [PDF](Papers/ICOR_Overparametrization.pdf)
 /
 [MATLAB](MATLAB/OR_Overparametrization_repro.m)
-- Approximability models and optimal system identification.
-With M. Ettehad. Mathematics of Control, Signals, and Systems, 32/1, 19--41, 2020. | 
+<br> Journal of Complexity, 62, 101503, 2021.
+- Approximability models and optimal system identification. | 
 [PDF](Papers/ORinSI.pdf)
 /
 [MATLAB](MATLAB/Reproducible_OSI.zip)
-- Optimal algorithms for computing average temperatures.
-With M. Hielsberg, G. Mullendore, G. Petrova, P. Wojtaszczyk. 
-Mathematics of Climate and Weather Forecasting, 5, 34--44, 2019.  | 
+<br> With M. Ettehad. Mathematics of Control, Signals, and Systems, 32/1, 19--41, 2020.
+- Optimal algorithms for computing average temperatures. | 
 [PDF](Papers/OptAlgo_AveTemp.pdf)
 /
 [MATLAB](MATLAB/Redistributable_final.zip)
-- Computing a quantity of interest from observational data.
-With R. DeVore, G. Petrova, P. Wojtaszczyk. Constructive Approximation, 49/3, 461--508, 2019. |
+<br> With M. Hielsberg, G. Mullendore, G. Petrova, P. Wojtaszczyk. 
+Mathematics of Climate and Weather Forecasting, 5, 34--44, 2019. 
+- Computing a quantity of interest from observational data. |
 [PDF](Papers/Computing_QoI.pdf)
 /
 [MATLAB](MATLAB/DFPW_Reproducible.zip)
+<br> With R. DeVore, G. Petrova, P. Wojtaszczyk. Constructive Approximation, 49/3, 461--508, 2019.
 
 For a direct access to html versions of the reproducibles (when available), simply click on the links above.
 The raw codes, available in MATLAB and in Python, are located inside the folders called "MATLAB" and "Python". 
