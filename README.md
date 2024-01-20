@@ -9,7 +9,7 @@ They link to preprints which may differ from the final published versions.
 /
 [MATLAB](https://htmlpreview.github.io/?https://github.com/foucart/COR/blob/master/MATLAB/web/repro_OR_L1.html)
 /
-[Python](...)
+[Python](https://htmlpreview.github.io/?https://github.com/foucart/COR/blob/master/Python/web/repro_OR_L1(Python).html)
 <br> With C. Liao.
 - S-procedure relaxation: a case of exactness involving Chebyshev centers. |
 [PDF](Papers/OR_SProc.pdf)
