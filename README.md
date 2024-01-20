@@ -9,7 +9,7 @@ They link to preprints which may differ from the final published versions.
 <br> With C. Liao.
 - S-procedure relaxation: a case of exactness involving Chebyshev centers. |
 [PDF](Papers/OR_SProc.pdf)
-<br> With C. Liao.
+<br> With C. Liao. In: Explorations in the Mathematics of Data Science. Birkh\"auser, to appear.
 - On the optimal recovery of graph signals. |
 [PDF](Papers/OR_Graph.pdf)
 /
@@ -17,7 +17,7 @@ They link to preprints which may differ from the final published versions.
 <br> With C. Liao and N. Veldt. International Conference on Sampling Theory and Applications (SampTA), 2023.
 - Near-optimal estimation of linear functionals with log-concave observation errors. |
 [PDF](Papers/OR_LogConcave.pdf)
-<br> With G. Paouris. Information and Inference, 12/4, iaad038, 2023.
+<br> With G. Paouris. Information and Inference, 12/4, 2546--2561, 2023.
 - Full recovery from point values: an optimal algorithm for Chebyshev approximability prior. |
 [PDF](Papers/OR_FullApprox.pdf)
 /
