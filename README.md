@@ -9,7 +9,7 @@ They link to preprints which may differ from the final published versions.
 <br> With C. Liao.
 - S-procedure relaxation: a case of exactness involving Chebyshev centers. |
 [PDF](Papers/OR_SProc.pdf)
-<br> With C. Liao. In: Explorations in the Mathematics of Data Science. Birkh\"auser, to appear.
+<br> With C. Liao. In: Explorations in the Mathematics of Data Science. Birkh&uauser, to appear.
 - On the optimal recovery of graph signals. |
 [PDF](Papers/OR_Graph.pdf)
 /
