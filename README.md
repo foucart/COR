@@ -7,7 +7,7 @@ They link to preprints which may differ from the final published versions.
 - Radius of information for two intersected centered hyperellipsoids and implications in optimal recovery from inaccurate data. |
 [PDF](Papers/OR_L1Noise_v2.pdf)
 /
-[MATLAB](MATLAB/web/repro_OR_L1.html)
+[MATLAB](https://htmlpreview.github.io/?https://github.com/foucart/COR/blob/master/MATLAB/web/repro_OR_L1.html)
 /
 [Python](...)
 <br> With C. Liao.
