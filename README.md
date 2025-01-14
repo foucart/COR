@@ -4,6 +4,10 @@ This repository contains my work on **Computational Optimal Recovery**: the rese
 These articles appear in reverse chronological order (of submission, not publication) below. 
 They link to preprints which may differ from the final published versions.
 
+- Optimal prediction of multivalued functions from point samples. |
+<br> Submitted.
+- Worst-case learning under a multi-fidelity model. |
+<br> With N. Hengartner. SIAM/ASA Journal on Uncertainty Quantification, Accepted.
 - Radius of information for two intersected centered hyperellipsoids and implications in optimal recovery from inaccurate data. |
 [PDF](Papers/OR_L1Noise_v2.pdf)
 /
