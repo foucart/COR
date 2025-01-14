@@ -10,10 +10,10 @@ They link to preprints which may differ from the final published versions.
 [MATLAB](https://htmlpreview.github.io/?https://github.com/foucart/COR/blob/master/MATLAB/web/repro_OR_L1.html)
 /
 [Python](https://htmlpreview.github.io/?https://github.com/foucart/COR/blob/master/Python/web/repro_OR_L1(Python).html)
-<br> With C. Liao.
+<br> With C. Liao. Journal of Complexity, 83, 101841, 2024.
 - S-procedure relaxation: a case of exactness involving Chebyshev centers. |
 [PDF](Papers/OR_SProc.pdf)
-<br> With C. Liao. In: Explorations in the Mathematics of Data Science. Birkh&auml;user, to appear.
+<br> With C. Liao. In: Explorations in the Mathematics of Data Science, Birkhäuser, 2024.
 - On the optimal recovery of graph signals. |
 [PDF](Papers/OR_Graph.pdf)
 /
