@@ -4,12 +4,15 @@ This repository contains my work on **Computational Optimal Recovery**: the rese
 These articles appear in reverse chronological order (of submission, not publication) below. 
 They link to preprints which may differ from the final published versions.
 
+- Learning the maximum of a Hölder function from inexact data. |
+[PDF](Papers/OR_Max_v2.pdf)
+<br> Submitted.
 - Optimal prediction of multivalued functions from point samples. |
 [PDF](Papers/OR_Multivalued_v4.pdf)
 <br> Submitted.
 - Worst-case learning under a multi-fidelity model. |
 [PDF](Papers/Multifidelity_v3.pdf)
-<br> With N. Hengartner. SIAM/ASA Journal on Uncertainty Quantification, Accepted.
+<br> With N. Hengartner. SIAM/ASA Journal on Uncertainty Quantification, 13/1, 171--194, 2025.
 - Radius of information for two intersected centered hyperellipsoids and implications in optimal recovery from inaccurate data. |
 [PDF](Papers/OR_L1Noise_v2.pdf)
 /
