@@ -5,11 +5,11 @@ These articles appear in reverse chronological order (of submission, not publica
 They link to preprints which may differ from the final published versions.
 
 - Learning the maximum of a Hölder function from inexact data. |
-[PDF](Papers/OR_Max_v2.pdf)
-<br> Submitted.
+[PDF](Papers/OR_Max_final.pdf)
+<br> Proceedings of the American Mathematical Society.
 - Optimal prediction of multivalued functions from point samples. |
-[PDF](Papers/OR_Multivalued_v4.pdf)
-<br> Submitted.
+[PDF](Papers/OR_Multivalued_v_final.pdf)
+<br> Journal of Complexity, 92, 101981, 2026.
 - Worst-case learning under a multi-fidelity model. |
 [PDF](Papers/Multifidelity_v3.pdf)
 <br> With N. Hengartner. SIAM/ASA Journal on Uncertainty Quantification, 13/1, 171--194, 2025.
