@@ -7,8 +7,8 @@ They link to preprints which may differ from the final published versions.
 - Optimal algorithms for nonlinear estimation with convex models. |
 [PDF](Papers/OR_NonlinearQ_v3.pdf)
 /
-[MATLAB](.)
-<br> Preprint.
+[MATLAB](https://htmlpreview.github.io/?https://github.com/foucart/COR/blob/master/MATLAB/web/repro_OR_NonlinearQ.html)
+<br> Preprint. 
 - Learning the maximum of a Hölder function from inexact data. |
 [PDF](Papers/OR_Max_final.pdf)
 <br> Proceedings of the American Mathematical Society.
