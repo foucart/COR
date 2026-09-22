@@ -5,7 +5,7 @@ These articles appear in reverse chronological order (of submission, not publica
 They link to preprints which may differ from the final published versions.
 
 - Worst-case-optimal estimation of a quadratic form by quadratic functionals of its linear observations.
-[PDF](Papers/OR_QuadraticQ_v4.pdf)
+[PDF](Papers/OR_QuadraticQ_v5.txt)
 /
 [MATLAB](https://htmlpreview.github.io/?https://github.com/foucart/COR/blob/master/MATLAB/web/repro_OR_QuadraticQ_updated.html)
 <br> Preprint.
