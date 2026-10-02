@@ -5,7 +5,7 @@ These articles appear in reverse chronological order (of submission, not publica
 They link to preprints which may differ from the final published versions.
 
 - Worst-case completion of tensors with approximately few ANOVA terms.
-[PDF](Papers/OR_ANOVA,pdf)
+[PDF](Papers/OR_ANOVA.pdf)
 /
 [GITHUB](https://github.com/Jingchun-Shao/OR_ANOVA)
 <br> With J. Shao. Preprint.
