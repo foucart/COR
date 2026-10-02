@@ -4,6 +4,10 @@ This repository contains my work on **Computational Optimal Recovery**: the rese
 These articles appear in reverse chronological order (of submission, not publication) below. 
 They link to preprints which may differ from the final published versions.
 
+- Worst-case completion of tensors with approximately few ANOVA terms.
+[PDF](Papers/OR_ANOVA,pdf)
+/
+[GITHUB](https://github.com/Jingchun-Shao/OR_ANOVA)
 - Worst-case-optimal estimation of a quadratic form by quadratic functionals of its linear observations.
 [PDF](Papers/OR_QuadraticQ_v5.txt)
 /
