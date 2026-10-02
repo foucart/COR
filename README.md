@@ -8,6 +8,7 @@ They link to preprints which may differ from the final published versions.
 [PDF](Papers/OR_ANOVA,pdf)
 /
 [GITHUB](https://github.com/Jingchun-Shao/OR_ANOVA)
+<br> With J. Shao. Preprint.
 - Worst-case-optimal estimation of a quadratic form by quadratic functionals of its linear observations.
 [PDF](Papers/OR_QuadraticQ_v5.txt)
 /
