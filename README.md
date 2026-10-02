@@ -21,7 +21,7 @@ They link to preprints which may differ from the final published versions.
 <br> Preprint. 
 - Learning the maximum of a Hölder function from inexact data. |
 [PDF](Papers/OR_Max_final.pdf)
-<br> Proceedings of the American Mathematical Society.
+<br> Proceedings of the American Mathematical Society, 154/3, 1077--1091, 2026. 
 - Optimal prediction of vector-valued functions from point samples. |
 [PDF](Papers/OR_Multivalued_v_final.pdf)
 <br> Journal of Complexity, 92, 101981, 2026.
