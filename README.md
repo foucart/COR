@@ -10,9 +10,9 @@ They link to preprints which may differ from the final published versions.
 [GITHUB](https://github.com/Jingchun-Shao/OR_ANOVA)
 <br> With J. Shao. Preprint.
 - Worst-case-optimal estimation of a quadratic form by quadratic functionals of its linear observations.
-[PDF](Papers/OR_QuadraticQ_v5.txt)
+[PDF](Papers/OR_QuadraticQ_v6.pdf)
 /
-[MATLAB](https://htmlpreview.github.io/?https://github.com/foucart/COR/blob/master/MATLAB/web/repro_OR_QuadraticQ_updated.html)
+[MATLAB](https://htmlpreview.github.io/?https://github.com/foucart/COR/blob/master/MATLAB/web/repro_OR_QuadraticQ_2nd_update.html)
 <br> Preprint.
 - Optimal algorithms for nonlinear estimation with convex models. |
 [PDF](Papers/OR_NonlinearQ_v3.pdf)
